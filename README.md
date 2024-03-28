@@ -1,1 +1,3 @@
 # HOTEL_RESERVATION_SYSTEM_USING_JAVA_SWING
+
+The hotel reservation system using Java Swing library features a user-friendly interface enabling guests to browse available rooms, make reservations, and view existing bookings. The system integrates with a database to store and retrieve information about rooms, reservations, and users, utilizing JDBC for seamless data management. It includes validation mechanisms to ensure accurate inputs and error handling functionalities for graceful handling of exceptions. Hotel staff can access a management interface for reservation management tasks such as modification or cancellation, authenticated for security. The system emphasizes responsiveness, usability, and aesthetic design to provide an efficient and pleasant user experience.
